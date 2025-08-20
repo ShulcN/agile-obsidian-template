@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] lol-kek
 - [ ] asdasd
 - [ ] [[asd]]
+- [ ] asd
 
 
 ## review
