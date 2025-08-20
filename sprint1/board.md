@@ -18,6 +18,9 @@ kanban-plugin: basic
 - [ ] asdasd
 - [ ] [[asd]]
 - [ ] asd
+- [ ] asd1
+- [ ] asd2
+- [ ] asd3
 
 
 ## review
