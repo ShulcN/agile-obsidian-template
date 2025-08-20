@@ -21,6 +21,7 @@ kanban-plugin: basic
 - [ ] asd1
 - [ ] asd2
 - [ ] asd3
+- [ ] [ ] asd
 
 
 ## review
